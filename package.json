@@ -1,0 +1,14 @@
+{
+  "name": "first-israel-gameday-splitter",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ofek Ashery",
+  "main": "index.js",
+  "scripts": {
+    "frc": "node first-robotics-competition.js",
+    "ftc": "node first-tech-challenge.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
